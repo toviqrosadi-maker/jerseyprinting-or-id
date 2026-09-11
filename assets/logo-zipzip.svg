@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 110" role="img" aria-label="Zipzip Jersey Printing">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#d9ff00"/><stop offset="1" stop-color="#7dff39"/></linearGradient></defs>
+<rect width="430" height="110" rx="20" fill="#0a0d0c"/>
+<path d="M25 30h72L50 74h53" fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="square" stroke-linejoin="bevel"/>
+<text x="122" y="62" font-family="Arial Black,Arial,sans-serif" font-size="48" font-style="italic" fill="#fff">zipzip.</text>
+<text x="124" y="88" font-family="Arial, sans-serif" font-size="15" letter-spacing="4" fill="#d9ff00">JERSEY PRINTING</text>
+</svg>
