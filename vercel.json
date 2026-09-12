@@ -6,6 +6,11 @@
       "source": "/index.html",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/2024/06/buat-jersey-badminton-anda-sendiri-di.html",
+      "destination": "/bikin-jersey-desain-sendiri-bandung.html",
+      "permanent": true
     }
   ],
   "headers": [
