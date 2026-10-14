@@ -15,3 +15,9 @@
 .cluster-hero-media{margin:0;min-width:0;border:1px solid #303c2a;border-radius:18px;overflow:hidden;background:#0d110d;box-shadow:0 22px 55px rgba(0,0,0,.35)}
 .cluster-hero-media img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
 @media(max-width:850px){.cluster-hero-grid{grid-template-columns:1fr;gap:26px}.page-hero:has(.cluster-hero-grid){padding:58px 0 45px}.cluster-hero-grid h1{font-size:clamp(38px,8vw,60px)}.cluster-hero-media img{aspect-ratio:16/10}}
+
+/* v4.2: consistent fully visible hero for all article/landing pages */
+.page-hero:has(.cluster-hero-grid){background:linear-gradient(110deg,#060807,#10170d)!important;background-image:linear-gradient(110deg,#060807,#10170d)!important}
+.cluster-hero-media img{width:100%;height:auto;aspect-ratio:auto;object-fit:contain;object-position:center;max-height:none}
+.cluster-hero-media{align-self:center}
+@media(max-width:850px){.cluster-hero-media img{aspect-ratio:auto;object-fit:contain}}
