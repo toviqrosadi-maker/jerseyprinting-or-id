@@ -6,3 +6,12 @@
 
 /* Cluster editorial images and contextual links */
 .cluster-figure{margin:25px 0}.cluster-figure img{width:100%;height:auto;display:block;border-radius:14px}.cluster-figure figcaption{font-size:.85rem;opacity:.72;margin-top:8px}.cluster-related{margin-top:32px;padding-top:18px;border-top:1px solid rgba(150,150,150,.25)}.cluster-related li{margin:8px 0}.article-sidebar>a:not(.btn){display:block;margin:12px 0}
+
+/* v4.1: clearly visible article hero photographs; keep existing site design */
+.page-hero:has(.cluster-hero-grid){background:linear-gradient(110deg,#060807,#10170d);padding:72px 0 66px}
+.cluster-hero-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);align-items:center;gap:42px}
+.cluster-hero-grid .cluster-hero-copy{min-width:0}
+.cluster-hero-grid h1{font-size:clamp(40px,4.6vw,70px);overflow-wrap:break-word}
+.cluster-hero-media{margin:0;min-width:0;border:1px solid #303c2a;border-radius:18px;overflow:hidden;background:#0d110d;box-shadow:0 22px 55px rgba(0,0,0,.35)}
+.cluster-hero-media img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+@media(max-width:850px){.cluster-hero-grid{grid-template-columns:1fr;gap:26px}.page-hero:has(.cluster-hero-grid){padding:58px 0 45px}.cluster-hero-grid h1{font-size:clamp(38px,8vw,60px)}.cluster-hero-media img{aspect-ratio:16/10}}
