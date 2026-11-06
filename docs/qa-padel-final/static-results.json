@@ -1,0 +1,100 @@
+{
+  "new_pages": 11,
+  "all_html_pages": 37,
+  "local_references_checked": 1307,
+  "word_counts_main_article": {
+    "bahan-jersey-padel.html": 1240,
+    "cara-merawat-jersey-padel.html": 1260,
+    "checklist-pesan-jersey-padel-custom.html": 1264,
+    "desain-jersey-padel-custom.html": 1249,
+    "jersey-padel-custom.html": 2163,
+    "jersey-padel-full-printing-sublimasi.html": 1281,
+    "jersey-padel-komunitas.html": 1229,
+    "jersey-padel-lengan-panjang-pendek.html": 1268,
+    "jersey-padel-nama-logo-sponsor.html": 1293,
+    "jersey-padel-turnamen.html": 1282,
+    "ukuran-jersey-padel-pria-wanita.html": 1258
+  },
+  "meta_description_lengths": {
+    "bahan-jersey-padel.html": 147,
+    "cara-merawat-jersey-padel.html": 144,
+    "checklist-pesan-jersey-padel-custom.html": 147,
+    "desain-jersey-padel-custom.html": 146,
+    "jersey-padel-custom.html": 153,
+    "jersey-padel-full-printing-sublimasi.html": 141,
+    "jersey-padel-komunitas.html": 148,
+    "jersey-padel-lengan-panjang-pendek.html": 147,
+    "jersey-padel-nama-logo-sponsor.html": 138,
+    "jersey-padel-turnamen.html": 150,
+    "ukuran-jersey-padel-pria-wanita.html": 145
+  },
+  "contextual_peer_links": {
+    "bahan-jersey-padel.html": [
+      "cara-merawat-jersey-padel.html",
+      "jersey-padel-full-printing-sublimasi.html",
+      "ukuran-jersey-padel-pria-wanita.html"
+    ],
+    "cara-merawat-jersey-padel.html": [
+      "bahan-jersey-padel.html",
+      "jersey-padel-full-printing-sublimasi.html",
+      "jersey-padel-komunitas.html"
+    ],
+    "checklist-pesan-jersey-padel-custom.html": [
+      "bahan-jersey-padel.html",
+      "desain-jersey-padel-custom.html",
+      "jersey-padel-komunitas.html",
+      "ukuran-jersey-padel-pria-wanita.html"
+    ],
+    "desain-jersey-padel-custom.html": [
+      "jersey-padel-full-printing-sublimasi.html",
+      "jersey-padel-komunitas.html",
+      "jersey-padel-nama-logo-sponsor.html"
+    ],
+    "jersey-padel-full-printing-sublimasi.html": [
+      "bahan-jersey-padel.html",
+      "checklist-pesan-jersey-padel-custom.html",
+      "desain-jersey-padel-custom.html"
+    ],
+    "jersey-padel-komunitas.html": [
+      "checklist-pesan-jersey-padel-custom.html",
+      "desain-jersey-padel-custom.html",
+      "jersey-padel-lengan-panjang-pendek.html",
+      "jersey-padel-nama-logo-sponsor.html"
+    ],
+    "jersey-padel-lengan-panjang-pendek.html": [
+      "bahan-jersey-padel.html",
+      "desain-jersey-padel-custom.html",
+      "jersey-padel-komunitas.html",
+      "ukuran-jersey-padel-pria-wanita.html"
+    ],
+    "jersey-padel-nama-logo-sponsor.html": [
+      "checklist-pesan-jersey-padel-custom.html",
+      "desain-jersey-padel-custom.html",
+      "jersey-padel-full-printing-sublimasi.html",
+      "jersey-padel-turnamen.html"
+    ],
+    "jersey-padel-turnamen.html": [
+      "checklist-pesan-jersey-padel-custom.html",
+      "desain-jersey-padel-custom.html",
+      "jersey-padel-nama-logo-sponsor.html",
+      "ukuran-jersey-padel-pria-wanita.html"
+    ],
+    "ukuran-jersey-padel-pria-wanita.html": [
+      "bahan-jersey-padel.html",
+      "checklist-pesan-jersey-padel-custom.html",
+      "jersey-padel-lengan-panjang-pendek.html"
+    ]
+  },
+  "highest_pairwise_5gram_jaccard": {
+    "score": 0.00265,
+    "pages": [
+      "jersey-padel-custom.html",
+      "desain-jersey-padel-custom.html"
+    ]
+  },
+  "shared_paragraphs_25_words_or_more": [],
+  "sitemap_urls": 36,
+  "sitemap_added": 11,
+  "http_checks": {},
+  "errors": []
+}

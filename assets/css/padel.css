@@ -1,0 +1,5 @@
+/* Keep in-page destinations visible below the site's sticky header. */
+.article-wrap[id],
+.article [id] {
+  scroll-margin-top: 96px;
+}

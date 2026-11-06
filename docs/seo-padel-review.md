@@ -2,6 +2,8 @@
 
 Status: **READY FOR REVIEW** (source lokal; belum push atau deploy).
 
+Pembaruan 7 November 2026: FINAL QA browser telah dijalankan dan masalah anchor yang tertutup header telah diperbaiki. Lihat [laporan FINAL QA](qa-padel-final/README.md) untuk hasil terbaru dan screenshot. Catatan keterbatasan browser di bawah merupakan keadaan pemeriksaan awal pada 6 November.
+
 Tanggal pemeriksaan: 6 November 2026, Asia/Jakarta.
 
 Branch: `feat/jersey-padel-cluster`. Branch khusus ini sudah tersedia saat pekerjaan dimulai dan working tree awal bersih. Baseline: `0bee568b1a2e479c0b203775cd22db2560fff23d`. Commit implementasi dapat dilihat dengan `git log -1 --oneline` pada branch tersebut.
