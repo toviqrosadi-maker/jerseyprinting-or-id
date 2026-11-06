@@ -3,3 +3,38 @@
 .article [id] {
   scroll-margin-top: 96px;
 }
+
+/* Only the pillar's new CTA: show the complete artwork at its native ratio. */
+.padel-cta-link {
+  display: block;
+}
+.article .padel-cta img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+.article .padel-cta figcaption {
+  padding: 16px 18px;
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.6;
+}
+.padel-cta figcaption strong,
+.padel-cta figcaption span {
+  display: block;
+}
+.padel-cta figcaption span {
+  margin-top: 6px;
+  color: var(--lime);
+  font-weight: 700;
+}
+.padel-cta-phone {
+  white-space: nowrap;
+}
+.padel-cta-link:focus-visible {
+  outline: 2px solid var(--lime);
+  outline-offset: 5px;
+  border-radius: 18px;
+}
