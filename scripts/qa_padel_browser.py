@@ -33,7 +33,7 @@ results=[]
 anchor_results=[]
 try:
     with sync_playwright() as p:
-        browser=p.chromium.launch(headless=True)
+        browser=p.chromium.launch(headless=True,args=['--disable-logging'])
         print('Browser:',browser.version,flush=True)
         for width in [1440,390]:
             context=browser.new_context(viewport={'width':width,'height':1000 if width==1440 else 844},device_scale_factor=1)

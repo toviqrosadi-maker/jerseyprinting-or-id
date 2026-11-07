@@ -1,0 +1,22 @@
+[
+  {
+    "script": "qa_padel.py",
+    "exitCode": 0,
+    "log": "qa_padel.log"
+  },
+  {
+    "script": "qa_padel_browser.py",
+    "exitCode": 0,
+    "log": "qa_padel_browser.log"
+  },
+  {
+    "script": "qa_padel_images.py",
+    "exitCode": 0,
+    "log": "qa_padel_images.log"
+  },
+  {
+    "script": "qa_padel_pillar_assets.py",
+    "exitCode": 0,
+    "log": "qa_padel_pillar_assets.log"
+  }
+]

@@ -1,0 +1,291 @@
+11 pages: 1440px, DPR 1: loading/layout checked
+11 pages: 1440px, DPR 2: loading/layout checked
+11 pages: 390px, DPR 1: loading/layout checked
+11 pages: 390px, DPR 2: loading/layout checked
+{
+  "source": {
+    "width": 1376,
+    "height": 768,
+    "loaded": true,
+    "file": "assets/images/jersey-padel-custom-hero.webp",
+    "bytes": 282874,
+    "sha256": "13a800a72650a5f748b95fd4c52a2076beab7baf0bbbfc6f924b1140357472a1"
+  },
+  "cases": 44,
+  "inventory": 106,
+  "pillar": [
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "hero": {
+        "src": "/assets/images/jersey-padel-custom-hero.webp",
+        "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+        "srcset": null,
+        "sizes": null,
+        "naturalWidth": 1376,
+        "naturalHeight": 768,
+        "browserNaturalWidth": 1376,
+        "renderedWidth": 481.65625,
+        "renderedHeight": 268.828125,
+        "devicePixelsNeeded": [
+          481.65625,
+          268.828125
+        ],
+        "densityAvailable": 2.856809187049893,
+        "cssUpscale": false,
+        "insufficientForDpr": false,
+        "loaded": true,
+        "objectFit": "contain",
+        "cssWidth": "481.656px",
+        "cssHeight": "268.828px",
+        "filter": "none",
+        "transform": "none",
+        "imageRendering": "auto",
+        "widthAttribute": "1376",
+        "heightAttribute": "768"
+      },
+      "inlineArticleImages": [
+        {
+          "src": "/assets/images/jersey-padel-custom-cta.webp",
+          "currentSrc": "/assets/images/jersey-padel-custom-cta.webp",
+          "srcset": null,
+          "sizes": null,
+          "naturalWidth": 1376,
+          "naturalHeight": 768,
+          "browserNaturalWidth": 1376,
+          "renderedWidth": 820,
+          "renderedHeight": 457.671875,
+          "devicePixelsNeeded": [
+            820,
+            457.671875
+          ],
+          "densityAvailable": 1.6780487804878048,
+          "cssUpscale": false,
+          "insufficientForDpr": false,
+          "loaded": true,
+          "objectFit": "contain",
+          "cssWidth": "820px",
+          "cssHeight": "457.672px",
+          "filter": "none",
+          "transform": "none",
+          "imageRendering": "auto",
+          "widthAttribute": "1376",
+          "heightAttribute": "768"
+        }
+      ],
+      "allImagesLoaded": true,
+      "responsivePictureSources": 0,
+      "h1Count": 1,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": []
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "horizontalOverflow": false,
+      "hero": {
+        "src": "/assets/images/jersey-padel-custom-hero.webp",
+        "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+        "srcset": null,
+        "sizes": null,
+        "naturalWidth": 1376,
+        "naturalHeight": 768,
+        "browserNaturalWidth": 1376,
+        "renderedWidth": 481.65625,
+        "renderedHeight": 268.828125,
+        "devicePixelsNeeded": [
+          963.3125,
+          537.65625
+        ],
+        "densityAvailable": 2.856809187049893,
+        "cssUpscale": false,
+        "insufficientForDpr": false,
+        "loaded": true,
+        "objectFit": "contain",
+        "cssWidth": "481.656px",
+        "cssHeight": "268.828px",
+        "filter": "none",
+        "transform": "none",
+        "imageRendering": "auto",
+        "widthAttribute": "1376",
+        "heightAttribute": "768"
+      },
+      "inlineArticleImages": [
+        {
+          "src": "/assets/images/jersey-padel-custom-cta.webp",
+          "currentSrc": "/assets/images/jersey-padel-custom-cta.webp",
+          "srcset": null,
+          "sizes": null,
+          "naturalWidth": 1376,
+          "naturalHeight": 768,
+          "browserNaturalWidth": 1376,
+          "renderedWidth": 820,
+          "renderedHeight": 457.671875,
+          "devicePixelsNeeded": [
+            1640,
+            915.34375
+          ],
+          "densityAvailable": 1.6780487804878048,
+          "cssUpscale": false,
+          "insufficientForDpr": true,
+          "loaded": true,
+          "objectFit": "contain",
+          "cssWidth": "820px",
+          "cssHeight": "457.672px",
+          "filter": "none",
+          "transform": "none",
+          "imageRendering": "auto",
+          "widthAttribute": "1376",
+          "heightAttribute": "768"
+        }
+      ],
+      "allImagesLoaded": true,
+      "responsivePictureSources": 0,
+      "h1Count": 1,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": []
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "hero": {
+        "src": "/assets/images/jersey-padel-custom-hero.webp",
+        "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+        "srcset": null,
+        "sizes": null,
+        "naturalWidth": 1376,
+        "naturalHeight": 768,
+        "browserNaturalWidth": 1376,
+        "renderedWidth": 356.796875,
+        "renderedHeight": 199.140625,
+        "devicePixelsNeeded": [
+          356.796875,
+          199.140625
+        ],
+        "densityAvailable": 3.8565360192686664,
+        "cssUpscale": false,
+        "insufficientForDpr": false,
+        "loaded": true,
+        "objectFit": "contain",
+        "cssWidth": "356.797px",
+        "cssHeight": "199.141px",
+        "filter": "none",
+        "transform": "none",
+        "imageRendering": "auto",
+        "widthAttribute": "1376",
+        "heightAttribute": "768"
+      },
+      "inlineArticleImages": [
+        {
+          "src": "/assets/images/jersey-padel-custom-cta.webp",
+          "currentSrc": "/assets/images/jersey-padel-custom-cta.webp",
+          "srcset": null,
+          "sizes": null,
+          "naturalWidth": 1376,
+          "naturalHeight": 768,
+          "browserNaturalWidth": 1376,
+          "renderedWidth": 356.796875,
+          "renderedHeight": 199.140625,
+          "devicePixelsNeeded": [
+            356.796875,
+            199.140625
+          ],
+          "densityAvailable": 3.8565360192686664,
+          "cssUpscale": false,
+          "insufficientForDpr": false,
+          "loaded": true,
+          "objectFit": "contain",
+          "cssWidth": "356.797px",
+          "cssHeight": "199.141px",
+          "filter": "none",
+          "transform": "none",
+          "imageRendering": "auto",
+          "widthAttribute": "1376",
+          "heightAttribute": "768"
+        }
+      ],
+      "allImagesLoaded": true,
+      "responsivePictureSources": 0,
+      "h1Count": 1,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": []
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "horizontalOverflow": false,
+      "hero": {
+        "src": "/assets/images/jersey-padel-custom-hero.webp",
+        "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+        "srcset": null,
+        "sizes": null,
+        "naturalWidth": 1376,
+        "naturalHeight": 768,
+        "browserNaturalWidth": 1376,
+        "renderedWidth": 356.796875,
+        "renderedHeight": 199.140625,
+        "devicePixelsNeeded": [
+          713.59375,
+          398.28125
+        ],
+        "densityAvailable": 3.8565360192686664,
+        "cssUpscale": false,
+        "insufficientForDpr": false,
+        "loaded": true,
+        "objectFit": "contain",
+        "cssWidth": "356.797px",
+        "cssHeight": "199.141px",
+        "filter": "none",
+        "transform": "none",
+        "imageRendering": "auto",
+        "widthAttribute": "1376",
+        "heightAttribute": "768"
+      },
+      "inlineArticleImages": [
+        {
+          "src": "/assets/images/jersey-padel-custom-cta.webp",
+          "currentSrc": "/assets/images/jersey-padel-custom-cta.webp",
+          "srcset": null,
+          "sizes": null,
+          "naturalWidth": 1376,
+          "naturalHeight": 768,
+          "browserNaturalWidth": 1376,
+          "renderedWidth": 356.796875,
+          "renderedHeight": 199.140625,
+          "devicePixelsNeeded": [
+            713.59375,
+            398.28125
+          ],
+          "densityAvailable": 3.8565360192686664,
+          "cssUpscale": false,
+          "insufficientForDpr": false,
+          "loaded": true,
+          "objectFit": "contain",
+          "cssWidth": "356.797px",
+          "cssHeight": "199.141px",
+          "filter": "none",
+          "transform": "none",
+          "imageRendering": "auto",
+          "widthAttribute": "1376",
+          "heightAttribute": "768"
+        }
+      ],
+      "allImagesLoaded": true,
+      "responsivePictureSources": 0,
+      "h1Count": 1,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": []
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "source": "03 — Bahan Jersey Padel.jpg",
+    "page": "bahan-jersey-padel.html",
+    "source_bytes": 739221,
+    "source_sha256": "152c101a599d48421766a5029a07241dc0ed972de1164f2746fe2098dea811b2",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "bahan-jersey-padel.webp",
+        "bytes": 281470,
+        "sha256": "8e5c029438cf2e51b3b57a8b360eb2d0733c16f3346ee11e32e7bd80d6b0ebfa",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "bahan-jersey-padel-1032.webp",
+        "bytes": 143656,
+        "sha256": "9418c28d98a72dcfaf36169538cb29a00d5010990ac12bc8afb89e46e1bae188",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "bahan-jersey-padel-688.webp",
+        "bytes": 67140,
+        "sha256": "9372f2268c7f1c3b8519ac1a446df3930dcacad3a43e12d5e9bb5bad37da393c",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "04 — Desain Jersey Padel Custom.jpg",
+    "page": "desain-jersey-padel-custom.html",
+    "source_bytes": 831331,
+    "source_sha256": "cb27f1ae7f9a1ce688899c6b4966cb697ea1f981ca405d3f137c13b092c521d2",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "desain-jersey-padel-custom.webp",
+        "bytes": 303746,
+        "sha256": "06cec8ccd83c2693a5b204b675e74e7e9efb5cfce21d90a73c4cd5b31c277d12",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "desain-jersey-padel-custom-1032.webp",
+        "bytes": 176732,
+        "sha256": "4ed4aaba84e7356981cf34087ffb4b57fa0f315402f0861a61a6b52fa76b98ba",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "desain-jersey-padel-custom-688.webp",
+        "bytes": 97530,
+        "sha256": "ebeb5ae74f785ea921c85afe7b9d29b637636ef0a81c421e184012655c067b8e",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "05 — Ukuran Jersey Padel Pria dan Wanita.jpg",
+    "page": "ukuran-jersey-padel-pria-wanita.html",
+    "source_bytes": 777382,
+    "source_sha256": "945bbc4b1e866de594a77eae4d3db8cce2ba0353b23a169e888730a746af1f21",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "ukuran-jersey-padel-pria-wanita.webp",
+        "bytes": 267616,
+        "sha256": "a53bcef56099c2d290b40924b2e1b3820543d404b19f5d35e80e200ca5d50b05",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "ukuran-jersey-padel-pria-wanita-1032.webp",
+        "bytes": 151656,
+        "sha256": "5a16a4be864e485526773f1a5ea06dece70e8f2b2d5c1d1dd342edee4f7a0543",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "ukuran-jersey-padel-pria-wanita-688.webp",
+        "bytes": 82810,
+        "sha256": "9685079f61efae31909ab09244fe69fefa2afdde7aa323ac9922590387c413cc",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "06 — Jersey Padel Full Printing Sublimasi.jpg",
+    "page": "jersey-padel-full-printing-sublimasi.html",
+    "source_bytes": 929144,
+    "source_sha256": "69327142c1ff83fd73b5514f2710dac36f063988b19195bf26a55a73d03d2231",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "jersey-padel-full-printing-sublimasi.webp",
+        "bytes": 375166,
+        "sha256": "70acf4704854743777179f482cb5db8308bebc96657259d88a323d6c5a9d201b",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "jersey-padel-full-printing-sublimasi-1032.webp",
+        "bytes": 208780,
+        "sha256": "b809037f9f08775d00790d7777bd3cd00ae98658ce5e04dd56679a3755de31cf",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "jersey-padel-full-printing-sublimasi-688.webp",
+        "bytes": 113160,
+        "sha256": "a950f0a042c0a95ab9a20d13300c16d4dad1f31a62546fd6e46416cdebc7a910",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "07 — Jersey Padel Komunitas.jpg",
+    "page": "jersey-padel-komunitas.html",
+    "source_bytes": 1080357,
+    "source_sha256": "dbaf5c2ede0aee5b4d5e63cf73613da707f600d3ec2263f8bc3532155a6ade96",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "jersey-padel-komunitas.webp",
+        "bytes": 462862,
+        "sha256": "20192c8e17906e8fa2d9df54a5d08f3d264591a66dac4361d94adac74801dd84",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "jersey-padel-komunitas-1032.webp",
+        "bytes": 258848,
+        "sha256": "f49bcdbbd430dddeda50562a213df4b94fcbee87264271a305b82314fd798d44",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "jersey-padel-komunitas-688.webp",
+        "bytes": 130466,
+        "sha256": "1cc6a9ed6009fea932be6d59a4f6ae87f493519d2c49f7421443f3291e096ceb",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "08 — Jersey Padel Turnamen.jpg",
+    "page": "jersey-padel-turnamen.html",
+    "source_bytes": 764329,
+    "source_sha256": "58ab7caaa945bd8395f71aad7d04a79496aeae542cc16ab256e744eb16891307",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "jersey-padel-turnamen.webp",
+        "bytes": 263152,
+        "sha256": "6ab6e6c42998a67d9c64979f93d1ac8fc089a620faa4d33ab75f067426cf399c",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "jersey-padel-turnamen-1032.webp",
+        "bytes": 147916,
+        "sha256": "33d33097542fbf7495244ce5309d0d0f420ee863240e57c59c3903e273be63c3",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "jersey-padel-turnamen-688.webp",
+        "bytes": 82454,
+        "sha256": "54b61f6ec51a57eea8b804ccf4aa003ac863391be43893cdcd232d3402ceb159",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "09 — Jersey Padel Lengan Panjang atau Pendek.jpg",
+    "page": "jersey-padel-lengan-panjang-pendek.html",
+    "source_bytes": 907299,
+    "source_sha256": "a7fc850472a6270dcc8997c2db1800964971fba8a3ec29f8fa1d054e138dd8dc",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "jersey-padel-lengan-panjang-pendek.webp",
+        "bytes": 365660,
+        "sha256": "5900a2cfacd93bd6d0dc11ef48abddf04fdb34a162f4a2dc6d9497c1ee4f8c34",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "jersey-padel-lengan-panjang-pendek-1032.webp",
+        "bytes": 214120,
+        "sha256": "381c6df716f3af98ff11f2da222563461adfe5cae7a9742254527ef9b236f6e7",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "jersey-padel-lengan-panjang-pendek-688.webp",
+        "bytes": 114572,
+        "sha256": "1f3421e3c471c4066a867dd2fb531e790805f4c6eff4b5378d001240f7ad2b06",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "10 — Jersey Padel Nama, Logo dan Sponsor.jpg",
+    "page": "jersey-padel-nama-logo-sponsor.html",
+    "source_bytes": 725337,
+    "source_sha256": "c98be352567f4a9ede4f910be8e9625ebd5ec19427537ecfe3ef99897f44c08f",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "jersey-padel-nama-logo-sponsor.webp",
+        "bytes": 233952,
+        "sha256": "5a8b85d1480d47bf8c20840d9b80b4a0157422238c09c6c32d02db1c55065ab4",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "jersey-padel-nama-logo-sponsor-1032.webp",
+        "bytes": 125664,
+        "sha256": "3c2382632f43763b181bad293940001891e6f1626f0d9b8f24c9ea3c81c0f63c",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "jersey-padel-nama-logo-sponsor-688.webp",
+        "bytes": 65812,
+        "sha256": "7f748a76b6d318b2b0cf8ab11d201a3a29ebb979eda95ba5a8e5886cbd5e2d47",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "11 — Cara Merawat Jersey Padel.jpg",
+    "page": "cara-merawat-jersey-padel.html",
+    "source_bytes": 767527,
+    "source_sha256": "cb2e0d61adacdd0b60aacb59f042bf46b53814c537b9adba61fe4c8339f0e88d",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "cara-merawat-jersey-padel.webp",
+        "bytes": 296106,
+        "sha256": "8f916a19707451cb9611264c0d15a507850064ab52584eb5d60d447df8105551",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "cara-merawat-jersey-padel-1032.webp",
+        "bytes": 155794,
+        "sha256": "fbd073244492bd48b300b9dbafb9db039949603d2174490c98bd16dd17227953",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "cara-merawat-jersey-padel-688.webp",
+        "bytes": 77238,
+        "sha256": "6e4632d5bfb045d6602cb8c8ec8bcd465cec430b3d879381a4f434a1ea82c2b5",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  },
+  {
+    "source": "12 — Checklist Pesan Jersey Padel Custom.jpg",
+    "page": "checklist-pesan-jersey-padel-custom.html",
+    "source_bytes": 876693,
+    "source_sha256": "e109587026c50e1f5d91c0a276d6441488414d1970cc200cf659d6dd762275a3",
+    "quality": 0.95,
+    "variants": [
+      {
+        "file": "checklist-pesan-jersey-padel-custom.webp",
+        "bytes": 345364,
+        "sha256": "f7e028eea2a9f36233d06dee694c8fdad06a4c8387af9f3c999f41b7fa460b25",
+        "width": 1376,
+        "height": 768
+      },
+      {
+        "file": "checklist-pesan-jersey-padel-custom-1032.webp",
+        "bytes": 183616,
+        "sha256": "2b89684ee898a841bf7a2854a9d1e24cd0a4806809a232da49a0313295594be0",
+        "width": 1032,
+        "height": 576
+      },
+      {
+        "file": "checklist-pesan-jersey-padel-custom-688.webp",
+        "bytes": 88264,
+        "sha256": "400c23bb192fe5ed5fa06c0445c7f35b3f74207cdf3d6c4d5c69e9e879f02a4f",
+        "width": 688,
+        "height": 384
+      }
+    ]
+  }
+]

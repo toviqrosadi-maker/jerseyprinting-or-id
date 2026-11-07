@@ -1,0 +1,42 @@
+1440 1 PASS
+1440 2 PASS
+390 1 PASS
+390 2 PASS
+{
+  "assets": [
+    {
+      "source": "Man_holding_padel_racket_b5165b84.jpg",
+      "webp": "jersey-padel-custom-hero.webp",
+      "source_dimensions": [
+        1376,
+        768
+      ],
+      "webp_dimensions": [
+        1376,
+        768
+      ],
+      "source_bytes": 736281,
+      "webp_bytes": 282874,
+      "source_sha256": "969350bbc802a88a4b70f0a632bb42bcd2dae0b99fc386a1d429ddcf4325db71",
+      "webp_sha256": "13a800a72650a5f748b95fd4c52a2076beab7baf0bbbfc6f924b1140357472a1"
+    },
+    {
+      "source": "Custom_padel_jersey_banner_design_f9e218c5.jpg",
+      "webp": "jersey-padel-custom-cta.webp",
+      "source_dimensions": [
+        1376,
+        768
+      ],
+      "webp_dimensions": [
+        1376,
+        768
+      ],
+      "source_bytes": 773239,
+      "webp_bytes": 258290,
+      "source_sha256": "958ac69a42f4a68d5e0fd9ba91b2d90c165bf52afc1c9086e2faf0cdb231db05",
+      "webp_sha256": "e3fe45128f369ecb6bf0b5e6f23e24c0cce85f40796c177d483a87fab9cfe8b4"
+    }
+  ],
+  "cases": 4,
+  "failures": []
+}

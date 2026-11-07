@@ -76,18 +76,25 @@ try:
                     errors = []
                     page.on('pageerror', lambda error: errors.append(str(error)))
                     response = page.goto(BASE + name, wait_until='networkidle')
-                    page.evaluate('async () => await Promise.all([...document.images].map(i=>i.decode().catch(()=>{})))')
-                    data = page.evaluate('''() => {
-                        const image = e => {
+                    page.evaluate('''async () => {
+                        for (const img of document.images) img.loading='eager';
+                        await Promise.all([...document.images].map(i=>i.decode().catch(()=>{})));
+                    }''')
+                    data = page.evaluate('''async () => {
+                        const image = async e => {
                             const r=e.getBoundingClientRect(), c=getComputedStyle(e);
+                            // naturalWidth on a srcset image is density-corrected.
+                            // Decode currentSrc independently to measure file pixels.
+                            const actual=new Image();actual.src=e.currentSrc;await actual.decode();
                             return {src:e.getAttribute('src'),currentSrc:new URL(e.currentSrc).pathname,
                               srcset:e.getAttribute('srcset'),sizes:e.getAttribute('sizes'),
-                              naturalWidth:e.naturalWidth,naturalHeight:e.naturalHeight,
+                              naturalWidth:actual.naturalWidth,naturalHeight:actual.naturalHeight,
+                              browserNaturalWidth:e.naturalWidth,
                               renderedWidth:r.width,renderedHeight:r.height,
                               devicePixelsNeeded:[r.width*devicePixelRatio,r.height*devicePixelRatio],
-                              densityAvailable:e.naturalWidth/r.width,
-                              cssUpscale:e.naturalWidth<r.width-1,
-                              insufficientForDpr:e.naturalWidth<r.width*devicePixelRatio-1,
+                              densityAvailable:actual.naturalWidth/r.width,
+                              cssUpscale:actual.naturalWidth<r.width-1,
+                              insufficientForDpr:actual.naturalWidth<r.width*devicePixelRatio-1,
                               loaded:e.complete&&e.naturalWidth>0,objectFit:c.objectFit,
                               cssWidth:c.width,cssHeight:c.height,filter:c.filter,
                               transform:c.transform,imageRendering:c.imageRendering,
@@ -96,8 +103,8 @@ try:
                         return {viewport:innerWidth,dpr:devicePixelRatio,
                           documentWidth:document.documentElement.scrollWidth,
                           horizontalOverflow:document.documentElement.scrollWidth>innerWidth+1,
-                          hero:image(document.querySelector('.cluster-hero-media img')),
-                          inlineArticleImages:[...document.querySelectorAll('article.article img')].map(image),
+                          hero:await image(document.querySelector('.cluster-hero-media img')),
+                          inlineArticleImages:await Promise.all([...document.querySelectorAll('article.article img')].map(image)),
                           allImagesLoaded:[...document.images].every(i=>i.complete&&i.naturalWidth>0),
                           responsivePictureSources:document.querySelectorAll('picture source').length,
                           h1Count:document.querySelectorAll('h1').length};
@@ -120,12 +127,13 @@ try:
 finally:
     server.shutdown()
 
-source = 'assets/images/product-padel-new.webp'
+source = cases[0]['hero']['currentSrc'].lstrip('/')
 current = next(item for item in inventory if item['file'] == source)
 same_hash = [item['file'] for item in inventory if item['sha256'] == current['sha256']]
 history = subprocess.check_output(['git','log','--all','--format=%h %s','--',source,
                                   'assets/images/product-padel.webp'],cwd=ROOT,text=True).splitlines()
-report = {'browser':version,'source':current,'byteIdenticalCopies':same_hash,
+active_sources={case['page']:case['hero']['src'] for case in cases}
+report = {'browser':version,'source':current,'activeHeroSources':active_sources,'byteIdenticalCopies':same_hash,
           'assetHistory':history,'assetInventory':inventory,'cases':cases,'failures':failures}
 (OUT/'image-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps({'source':current,'cases':len(cases),'inventory':len(inventory),

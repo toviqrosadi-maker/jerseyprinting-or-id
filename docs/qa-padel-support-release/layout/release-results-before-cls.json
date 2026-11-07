@@ -1,0 +1,1767 @@
+{
+  "baseline": "4348dd4",
+  "cases": [
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-custom-hero.webp",
+      "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+      "sourcePixels": [
+        1376,
+        768
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 212.20000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 0,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/bahan-jersey-padel.webp",
+      "currentSrc": "/assets/images/bahan-jersey-padel-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 151.40000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "bahan-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/desain-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/desain-jersey-padel-custom-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 147.90000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "desain-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/ukuran-jersey-padel-pria-wanita.webp",
+      "currentSrc": "/assets/images/ukuran-jersey-padel-pria-wanita-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 144.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "ukuran-jersey-padel-pria-wanita.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-full-printing-sublimasi.webp",
+      "currentSrc": "/assets/images/jersey-padel-full-printing-sublimasi-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 136.60000014305115
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-full-printing-sublimasi.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-komunitas.webp",
+      "currentSrc": "/assets/images/jersey-padel-komunitas-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 140.90000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-komunitas.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-turnamen.webp",
+      "currentSrc": "/assets/images/jersey-padel-turnamen-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 148.90000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-turnamen.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-lengan-panjang-pendek.webp",
+      "currentSrc": "/assets/images/jersey-padel-lengan-panjang-pendek-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 137.20000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-lengan-panjang-pendek.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-nama-logo-sponsor.webp",
+      "currentSrc": "/assets/images/jersey-padel-nama-logo-sponsor-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 139.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-nama-logo-sponsor.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/cara-merawat-jersey-padel.webp",
+      "currentSrc": "/assets/images/cara-merawat-jersey-padel-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 152.90000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "cara-merawat-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 1,
+      "documentWidth": 1440,
+      "src": "/assets/images/checklist-pesan-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/checklist-pesan-jersey-padel-custom-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 136.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "checklist-pesan-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-custom-hero.webp",
+      "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+      "sourcePixels": [
+        1376,
+        768
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 146
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 0,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/bahan-jersey-padel.webp",
+      "currentSrc": "/assets/images/bahan-jersey-padel-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 150
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "bahan-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/desain-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/desain-jersey-padel-custom-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 137.40000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "desain-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/ukuran-jersey-padel-pria-wanita.webp",
+      "currentSrc": "/assets/images/ukuran-jersey-padel-pria-wanita-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 137.89999985694885
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "ukuran-jersey-padel-pria-wanita.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-full-printing-sublimasi.webp",
+      "currentSrc": "/assets/images/jersey-padel-full-printing-sublimasi-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 141.39999985694885
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-full-printing-sublimasi.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-komunitas.webp",
+      "currentSrc": "/assets/images/jersey-padel-komunitas-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 155.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-komunitas.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-turnamen.webp",
+      "currentSrc": "/assets/images/jersey-padel-turnamen-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 191.69999980926514
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-turnamen.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-lengan-panjang-pendek.webp",
+      "currentSrc": "/assets/images/jersey-padel-lengan-panjang-pendek-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 147.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-lengan-panjang-pendek.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/jersey-padel-nama-logo-sponsor.webp",
+      "currentSrc": "/assets/images/jersey-padel-nama-logo-sponsor-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 147.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-nama-logo-sponsor.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/cara-merawat-jersey-padel.webp",
+      "currentSrc": "/assets/images/cara-merawat-jersey-padel-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.041459893120659716,
+      "shifts": [
+        {
+          "value": 0.041459893120659716,
+          "time": 138.79999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "cara-merawat-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.041459893120659716,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 1440,
+      "dpr": 2,
+      "documentWidth": 1440,
+      "src": "/assets/images/checklist-pesan-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/checklist-pesan-jersey-padel-custom-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        481.65625,
+        268.828125
+      ],
+      "ratioDifference": 2.1795989537887195e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.04137562504521122,
+      "shifts": [
+        {
+          "value": 0.04137562504521122,
+          "time": 155.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "checklist-pesan-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.04137562504521122,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-custom-hero.webp",
+      "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+      "sourcePixels": [
+        1376,
+        768
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.01627182342177618,
+      "shifts": [
+        {
+          "value": 0.01627182342177618,
+          "time": 148.29999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 0,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.01627182342177618,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/bahan-jersey-padel.webp",
+      "currentSrc": "/assets/images/bahan-jersey-padel-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.02557615240920591,
+      "shifts": [
+        {
+          "value": 0.02557615240920591,
+          "time": 140.70000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "bahan-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.02557615240920591,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/desain-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/desain-jersey-padel-custom-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.03281460496044362,
+      "shifts": [
+        {
+          "value": 0.03281460496044362,
+          "time": 140.5
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "desain-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.03281460496044362,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/ukuran-jersey-padel-pria-wanita.webp",
+      "currentSrc": "/assets/images/ukuran-jersey-padel-pria-wanita-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 137.40000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "ukuran-jersey-padel-pria-wanita.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-full-printing-sublimasi.webp",
+      "currentSrc": "/assets/images/jersey-padel-full-printing-sublimasi-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 151.70000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-full-printing-sublimasi.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-komunitas.webp",
+      "currentSrc": "/assets/images/jersey-padel-komunitas-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.023431425727357704,
+      "shifts": [
+        {
+          "value": 0.023431425727357704,
+          "time": 139.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-komunitas.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.023431425727357704,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-turnamen.webp",
+      "currentSrc": "/assets/images/jersey-padel-turnamen-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.013780155659040762,
+      "shifts": [
+        {
+          "value": 0.013780155659040762,
+          "time": 144.39999985694885
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-turnamen.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.013780155659040762,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-lengan-panjang-pendek.webp",
+      "currentSrc": "/assets/images/jersey-padel-lengan-panjang-pendek-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 142.89999985694885
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-lengan-panjang-pendek.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-nama-logo-sponsor.webp",
+      "currentSrc": "/assets/images/jersey-padel-nama-logo-sponsor-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 135.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-nama-logo-sponsor.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/cara-merawat-jersey-padel.webp",
+      "currentSrc": "/assets/images/cara-merawat-jersey-padel-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 143.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "cara-merawat-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 1,
+      "documentWidth": 390,
+      "src": "/assets/images/checklist-pesan-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/checklist-pesan-jersey-padel-custom-688.webp",
+      "sourcePixels": [
+        688,
+        384
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 151.59999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "checklist-pesan-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-custom-hero.webp",
+      "currentSrc": "/assets/images/jersey-padel-custom-hero.webp",
+      "sourcePixels": [
+        1376,
+        768
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.01627182342177618,
+      "shifts": [
+        {
+          "value": 0.01627182342177618,
+          "time": 136.79999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 0,
+      "page": "jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.01627182342177618,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/bahan-jersey-padel.webp",
+      "currentSrc": "/assets/images/bahan-jersey-padel-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.02557615240920591,
+      "shifts": [
+        {
+          "value": 0.02557615240920591,
+          "time": 149.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "bahan-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.02557615240920591,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/desain-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/desain-jersey-padel-custom-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.03281460496044362,
+      "shifts": [
+        {
+          "value": 0.03281460496044362,
+          "time": 140.89999985694885
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "desain-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.03281460496044362,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/ukuran-jersey-padel-pria-wanita.webp",
+      "currentSrc": "/assets/images/ukuran-jersey-padel-pria-wanita-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 143.20000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "ukuran-jersey-padel-pria-wanita.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-full-printing-sublimasi.webp",
+      "currentSrc": "/assets/images/jersey-padel-full-printing-sublimasi-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 151.40000009536743
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-full-printing-sublimasi.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-komunitas.webp",
+      "currentSrc": "/assets/images/jersey-padel-komunitas-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.023431425727357704,
+      "shifts": [
+        {
+          "value": 0.023431425727357704,
+          "time": 141.79999995231628
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-komunitas.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.023431425727357704,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-turnamen.webp",
+      "currentSrc": "/assets/images/jersey-padel-turnamen-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.013780155659040762,
+      "shifts": [
+        {
+          "value": 0.013780155659040762,
+          "time": 149.70000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-turnamen.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.013780155659040762,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-lengan-panjang-pendek.webp",
+      "currentSrc": "/assets/images/jersey-padel-lengan-panjang-pendek-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 150.59999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-lengan-panjang-pendek.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/jersey-padel-nama-logo-sponsor.webp",
+      "currentSrc": "/assets/images/jersey-padel-nama-logo-sponsor-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 135.10000014305115
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "jersey-padel-nama-logo-sponsor.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/cara-merawat-jersey-padel.webp",
+      "currentSrc": "/assets/images/cara-merawat-jersey-padel-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.014035343726800778,
+      "shifts": [
+        {
+          "value": 0.014035343726800778,
+          "time": 148.20000004768372
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "cara-merawat-jersey-padel.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.014035343726800778,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    },
+    {
+      "viewport": 390,
+      "dpr": 2,
+      "documentWidth": 390,
+      "src": "/assets/images/checklist-pesan-jersey-padel-custom.webp",
+      "currentSrc": "/assets/images/checklist-pesan-jersey-padel-custom-1032.webp",
+      "sourcePixels": [
+        1032,
+        576
+      ],
+      "rendered": [
+        356.796875,
+        199.140625
+      ],
+      "ratioDifference": 1.6346279586798573e-05,
+      "objectFit": "contain",
+      "width": "1376",
+      "height": "768",
+      "loading": "eager",
+      "priority": "high",
+      "enoughForDpr": true,
+      "allImagesLoaded": true,
+      "cls": 0.017520524584804117,
+      "shifts": [
+        {
+          "value": 0.017520524584804117,
+          "time": 152.09999990463257
+        }
+      ],
+      "homepageAnchors": 1,
+      "pillarLinks": 1,
+      "page": "checklist-pesan-jersey-padel-custom.html",
+      "httpStatus": 200,
+      "pageErrors": [],
+      "initialCls": 0.017520524584804117,
+      "failures": [
+        "Unexpected layout shift"
+      ]
+    }
+  ],
+  "failures": [
+    "jersey-padel-custom.html 1440px DPR1: Unexpected layout shift",
+    "bahan-jersey-padel.html 1440px DPR1: Unexpected layout shift",
+    "desain-jersey-padel-custom.html 1440px DPR1: Unexpected layout shift",
+    "ukuran-jersey-padel-pria-wanita.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-full-printing-sublimasi.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-komunitas.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-turnamen.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-lengan-panjang-pendek.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-nama-logo-sponsor.html 1440px DPR1: Unexpected layout shift",
+    "cara-merawat-jersey-padel.html 1440px DPR1: Unexpected layout shift",
+    "checklist-pesan-jersey-padel-custom.html 1440px DPR1: Unexpected layout shift",
+    "jersey-padel-custom.html 1440px DPR2: Unexpected layout shift",
+    "bahan-jersey-padel.html 1440px DPR2: Unexpected layout shift",
+    "desain-jersey-padel-custom.html 1440px DPR2: Unexpected layout shift",
+    "ukuran-jersey-padel-pria-wanita.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-full-printing-sublimasi.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-komunitas.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-turnamen.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-lengan-panjang-pendek.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-nama-logo-sponsor.html 1440px DPR2: Unexpected layout shift",
+    "cara-merawat-jersey-padel.html 1440px DPR2: Unexpected layout shift",
+    "checklist-pesan-jersey-padel-custom.html 1440px DPR2: Unexpected layout shift",
+    "jersey-padel-custom.html 390px DPR1: Unexpected layout shift",
+    "bahan-jersey-padel.html 390px DPR1: Unexpected layout shift",
+    "desain-jersey-padel-custom.html 390px DPR1: Unexpected layout shift",
+    "ukuran-jersey-padel-pria-wanita.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-full-printing-sublimasi.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-komunitas.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-turnamen.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-lengan-panjang-pendek.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-nama-logo-sponsor.html 390px DPR1: Unexpected layout shift",
+    "cara-merawat-jersey-padel.html 390px DPR1: Unexpected layout shift",
+    "checklist-pesan-jersey-padel-custom.html 390px DPR1: Unexpected layout shift",
+    "jersey-padel-custom.html 390px DPR2: Unexpected layout shift",
+    "bahan-jersey-padel.html 390px DPR2: Unexpected layout shift",
+    "desain-jersey-padel-custom.html 390px DPR2: Unexpected layout shift",
+    "ukuran-jersey-padel-pria-wanita.html 390px DPR2: Unexpected layout shift",
+    "jersey-padel-full-printing-sublimasi.html 390px DPR2: Unexpected layout shift",
+    "jersey-padel-komunitas.html 390px DPR2: Unexpected layout shift",
+    "jersey-padel-turnamen.html 390px DPR2: Unexpected layout shift",
+    "jersey-padel-lengan-panjang-pendek.html 390px DPR2: Unexpected layout shift",
+    "jersey-padel-nama-logo-sponsor.html 390px DPR2: Unexpected layout shift",
+    "cara-merawat-jersey-padel.html 390px DPR2: Unexpected layout shift",
+    "checklist-pesan-jersey-padel-custom.html 390px DPR2: Unexpected layout shift"
+  ]
+}

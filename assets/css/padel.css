@@ -38,3 +38,9 @@
   outline-offset: 5px;
   border-radius: 18px;
 }
+
+/* Reserve the source ratio before decoding to prevent image layout shifts. */
+.cluster-hero-media img[width="1376"][height="768"],
+.article .padel-cta img[width="1376"][height="768"] {
+  aspect-ratio: 1376 / 768;
+}

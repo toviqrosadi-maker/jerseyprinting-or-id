@@ -13,6 +13,7 @@ import hashlib
 import json
 import runpy
 import subprocess
+import re
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -148,7 +149,14 @@ for tag,attrs in [('title',{}),('meta',{'name':'description'}),('link',{'rel':'c
 for name in subprocess.check_output(['git','ls-tree','-r','--name-only','4ad3f34'],cwd=ROOT,text=True).splitlines():
     if name.endswith('.html') and name!='jersey-padel-custom.html' or name in ['sitemap.xml','vercel.json','robots.txt','assets/css/style.css','assets/js/main.js']:
         previous=subprocess.check_output(['git','show','4ad3f34:'+name],cwd=ROOT).decode('utf-8').replace('\r\n','\n')
-        if (ROOT/name).read_text(encoding='utf-8') != previous:failures.append('Protected file changed: '+name)
+        current_text=(ROOT/name).read_text(encoding='utf-8')
+        # Support heroes have a separately authorized image-only update. Restore
+        # exactly that tag for this historical regression comparison.
+        if name in q['SUPPORT']:
+            pattern=r'(<figure class="cluster-hero-media">)(<img\b[^>]*>)'
+            previous_tag=re.search(pattern,previous).group(2)
+            current_text=re.sub(pattern,lambda m:m[1]+previous_tag,current_text,count=1)
+        if current_text != previous:failures.append('Protected file changed: '+name)
 report={'assets':assets,'cases':results,'failures':failures}
 (OUT/'pillar-assets-results.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps({'assets':assets,'cases':len(results),'failures':failures},ensure_ascii=False,indent=2),flush=True)
